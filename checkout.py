@@ -9,3 +9,5 @@ discount = 5
 total = calculate_total(price, quantity, discount)
 
 print("Total:", total)
+
+print("Thank you for shopping!")
