@@ -1,13 +1,19 @@
-Repository URL:
-PASTE YOUR GITHUB REPOSITORY URL HERE
+Task 2 - From a Line to Evidence
 
-Branches:
-main
-visual-tools
+Line under investigation:
+return subtotal - discount
 
-Feature commits:
-1. Add checkout calculation
-2. Improve checkout calculation
+Commit ID:
+ab46034
 
-History explanation:
-The main and visual-tools branches share the earlier repository history before the feature work. The commits "Add checkout calculation" and "Improve checkout calculation" are unique to visual-tools. HEAD is currently on the visual-tools branch. The visual-tools branch points to the newest feature commit, "Improve checkout calculation."
+Author:
+mahroush
+
+Date shown by GitHub Desktop:
+3 minutes ago
+
+Commit message:
+Fix checkout discount calculation
+
+Interpretation:
+The previous version added the discount to the subtotal, which incorrectly increased the final price. This commit changed the plus operator to a minus operator so that the discount is correctly subtracted from the subtotal. This change plausibly fixes the unexpected checkout result.
