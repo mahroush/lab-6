@@ -1,0 +1,23 @@
+Task 4 - Publish, Merge, and Synchronize
+
+Branch before merge:
+visual-tools contained the feature commits.
+
+Target branch:
+main
+
+Merge:
+I switched to main and merged visual-tools into main using GitHub Desktop.
+
+After merge:
+The commits from visual-tools became part of main.
+
+Remote update:
+README.md was edited directly on GitHub and committed to main.
+
+Synchronization:
+Fetch origin checked for remote changes.
+Pull origin downloaded and integrated the remote README update into local main.
+
+Final state:
+main is synchronized with GitHub and the working tree is clean with no uncommitted changes.
