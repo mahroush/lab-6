@@ -1,0 +1,22 @@
+Task 3 - Review Before Committing
+
+Commit 1:
+Add checkout confirmation message
+
+File:
+checkout.py
+
+Change:
+Added a confirmation message after the checkout total is displayed.
+
+Commit 2:
+Document GitHub Desktop workflow
+
+File:
+README.md
+
+Change:
+Added a short description explaining that the project demonstrates visual Git workflows using GitHub Desktop.
+
+Why the changes were separated:
+The checkout.py change modifies program behavior, while the README.md change only updates documentation. Keeping them in separate commits makes each change easier to review, understand, or undo without affecting the unrelated change.
