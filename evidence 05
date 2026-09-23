@@ -1,0 +1,15 @@
+Task 5 - Visual Merge Conflict
+
+Conflicting lines:
+Main review note.
+Feature review note.
+
+Final resolved content:
+Main review note.
+Feature review note.
+
+Merge resolution:
+README.md had conflicting changes on main and visual-tools. I resolved the conflict manually by keeping both intended lines, removed the Git conflict markers, continued the merge, and pushed the completed merge to GitHub.
+
+Final state:
+The merge was completed successfully. The History view shows the merge, and the working tree has no uncommitted changes.
