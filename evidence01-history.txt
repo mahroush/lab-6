@@ -1,0 +1,13 @@
+Repository URL:
+PASTE YOUR GITHUB REPOSITORY URL HERE
+
+Branches:
+main
+visual-tools
+
+Feature commits:
+1. Add checkout calculation
+2. Improve checkout calculation
+
+History explanation:
+The main and visual-tools branches share the earlier repository history before the feature work. The commits "Add checkout calculation" and "Improve checkout calculation" are unique to visual-tools. HEAD is currently on the visual-tools branch. The visual-tools branch points to the newest feature commit, "Improve checkout calculation."
